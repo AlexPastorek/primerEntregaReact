@@ -1,0 +1,13 @@
+h2{
+    text-align: center;
+}
+.nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+background-color: blanchedalmond;
+}
+.body{
+    background-color: coral;
+}
